@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-03-29T15:53:38Z
-Entry: chore: update dependencies and build system configuration
-Sequence: 3/134
+Last updated: 2026-03-31T10:38:43Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 4/134
